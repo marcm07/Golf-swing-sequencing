@@ -14,7 +14,9 @@ Experiment 2 takes in the entire image without cropping the golfer from the imag
   - Mid-Follow-Through
   - Finish
   
-The images have already been read into numpy arrays with their target classes. 
+The images have already been already been read into numpy arrays with their target classes. 
+
+The rest of the project resources and thesis can be found at the following link: https://sites.google.com/a/rucis.co.za/cs/research/g18m6731
 
 ## Running the Program
 1. The input numpy files need to be downlaoded from the follwing google drive link: https://drive.google.com/file/d/1jRDOn1CNuY7JQOTcmbo_xnto5-UgZ0Bb/view?usp=sharing
@@ -23,9 +25,6 @@ The images have already been read into numpy arrays with their target classes.
 
 System requirments: 
 - Tensorflow 2.X
-===========================================
-
-The rest of the project resources and thesis can be found at the following link: https://sites.google.com/a/rucis.co.za/cs/research/g18m6731
 
 ## Citation
 Please cite the following if any of this work is used or helpful in your research:
