@@ -1,4 +1,4 @@
-# Golf-swing-sequencing
+# Golf Swing Sequencing using Computer Vision
 
 ## Introduction
 Analysis of golf swing events is a valuable tool to aid all golfers in improving their swing. Image processing and machine learning enable an automated system to perform golf swing sequencing using images. The majority of swing sequencing systems involve the use of expensive camera equipment or a motion capture suit. Therefore, an image-based swing classification system is proposed. It is evaluated on the GolfDB dataset. The system implements an automated golfer detector and traditional machine learning algorithms to classify swing events. 
