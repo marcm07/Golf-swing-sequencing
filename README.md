@@ -24,8 +24,10 @@ The images have already been read into numpy arrays with their target classes.
 System requirments: 
 - Tensorflow 2.X
 ===========================================
+
 The rest of the project resources and thesis can be found at the following link: https://sites.google.com/a/rucis.co.za/cs/research/g18m6731
 
 ## Citation
 Please cite the following if any of this work is used or helpful in your research:
+
 Marais, M., Brown, D. (2022). Golf Swing Sequencing Using Computer Vision. In: Pinho, A.J., Georgieva, P., Teixeira, L.F., Sánchez, J.A. (eds) Pattern Recognition and Image Analysis. IbPRIA 2022. Lecture Notes in Computer Science, vol 13256. Springer, Cham. https://doi.org/10.1007/978-3-031-04881-4_28
